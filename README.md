@@ -1,98 +1,109 @@
 <!-- Typing Animation Header -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=38C2FF\&width=600\&lines=Hi!+I'm+Abdul+Aziz;Python+Cpp+%7C+AI+%26+Robotics+Enthusiast;Developer+%7C+Innovator+%7C+Tech+Learner;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=600&lines=Hi!+I'm+Abdul+Aziz;Python+Cpp+%7C+AI+%26+Robotics+Enthusiast;Developer+%7C+Innovator+%7C+Tech+Learner;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
----
-
-# 👋 About Me
-
-🎓 **Python / C++ Explorer** | 💡 **Developer** | 🤖 **AI & Robotics Enthusiast**
-
-* 🌱 Currently learning **C++**, **Python**, and **Arduino Robotics**
-* 🔭 Working on **AI-powered automation projects**
-* 🧠 Exploring **IoT**, **Machine Learning**, and **Voice Assistants**
-* 💬 Ask me about **OOP, Sensors, and Arduino Systems**
-* 📫 Reach me at **[aapppp742@gmail.com](mailto:aapppp742@gmail.com)**
-* ⚡ Fun fact: I love debugging more than coding sometimes 😄
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 👋 About Me
 
-**Languages:**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+🎓 **Python / C++ Developer** | 🤖 **AI & Robotics Innovator** | 💡 **Tech Enthusiast**
 
-**Frameworks & Tools:**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+* 🌱 Currently mastering **Advanced C++** & **Python AI Libraries**
+* 🔭 Building **Intelligent Robotics Systems** with Arduino
+* 🧠 Exploring **Computer Vision**, **Machine Learning**, and **IoT Networks**
+* 💬 Ask me about **OOP, Sensor Integration, and Automation Systems**
+* 📫 Reach me at: **aapppp742@gmail.com**
+* ⚡ Fun fact: I enjoy solving complex problems more than writing new code! 🧩
 
 ---
 
-## 📊 GitHub Stats & Progress
+## 🛠️ Tech Stack
 
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulaziz\&show_icons=true\&theme=tokyonight\&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz\&layout=compact\&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz\&theme=tokyonight)
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdulaziz\&theme=tokyonight\&no-frame=false\&no-bg=true\&margin-w=5)
-
----
-
-## ⚙️ Contribution Graph
-
-[![Aziz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulaziz\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧩 Skill Level (Progress Meters)
+## 📊 GitHub Analytics
 
-| Skill    | Progress                                                   |
-| -------- | ---------------------------------------------------------- |
-| C++      | ![C++](https://progress-bar.dev/85/?title=Advanced)        |
-| Python   | ![Python](https://progress-bar.dev/80/?title=Intermediate) |
-| Arduino  | ![Arduino](https://progress-bar.dev/75/?title=Prototyping) |
-| Robotics | ![Robotics](https://progress-bar.dev/70/?title=Building)   |
+<div align="center">
 
----
+<!-- Auto-updated stats -->
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulaziz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-## 🧱 3D Contribution Graph
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![3D Profile](https://github.com/abdulaziz/abdulaziz/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz&theme=radical&hide_border=true)
 
-*Generate yours using 👉 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)*
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://yourportfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/yourhandle)
+<div align="center">
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=Azzy-Glitch&theme=radical&no-frame=true&row=2&column=4)
 
-### 🧭 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulaziz\&color=brightgreen)
+</div>
 
 ---
 
-### 🔄 Auto-Update
+## 📈 Contribution Activity
 
-This profile auto-updates daily using a **GitHub Action**.
-To enable it, create a workflow file here:
-📂 `.github/workflows/update-readme.yml`
-and paste this [workflow code](https://chat.openai.com/share/3fcb3a2c-9f4e-4b74-9452-43f0d5e6b6dc).
+<!-- Auto-updated activity graph -->
+[![Azzy-Glitch GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azzy-Glitch&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐ *From [Abdul Aziz](https://github.com/abdulaziz)*
+## 🚀 Skill Progression
+
+### **Core Programming**
+| Skill | Progress |
+|-------|----------|
+| **C++ Development** | ![90%](https://progress-bar.dev/90/?title=Advanced) |
+| **Python Programming** | ![85%](https://progress-bar.dev/85/?title=Advanced) |
+| **OOP & Design Patterns** | ![80%](https://progress-bar.dev/80/?title=Intermediate) |
+
+### **AI & Robotics**
+| Skill | Progress |
+|-------|----------|
+| **Arduino Robotics** | ![75%](https://progress-bar.dev/75/?title=Building) |
+| **Computer Vision** | ![70%](https://progress-bar.dev/70/?title=Learning) |
+| **Machine Learning** | ![60%](https://progress-bar.dev/60/?title=Exploring) |
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 [Smart Robotics System]()
+> *AI-powered autonomous robot with computer vision and sensor fusion*
+
+### 🎯 [Object Detection with OpenCV]()
+> *Real-time object recognition system using Python and OpenCV*
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azzy-glitch)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_abdul_aziz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapppp742@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azzy-Glitch)
+
+</div>
+
+---
