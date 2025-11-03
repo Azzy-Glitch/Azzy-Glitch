@@ -40,11 +40,11 @@
 <div align="center">
 
 <!-- Auto-updated stats -->
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulaziz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Azzy-Glitch GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azzy-Glitch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaziz&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy-Glitch&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulaziz&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azzy-Glitch&theme=radical&hide_border=true)
 
 </div>
 
@@ -64,24 +64,6 @@
 
 <!-- Auto-updated activity graph -->
 [![Azzy-Glitch GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azzy-Glitch&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🚀 Skill Progression
-
-### **Core Programming**
-| Skill | Progress |
-|-------|----------|
-| **C++ Development** | ![90%](https://progress-bar.dev/90/?title=Advanced) |
-| **Python Programming** | ![85%](https://progress-bar.dev/85/?title=Advanced) |
-| **OOP & Design Patterns** | ![80%](https://progress-bar.dev/80/?title=Intermediate) |
-
-### **AI & Robotics**
-| Skill | Progress |
-|-------|----------|
-| **Arduino Robotics** | ![75%](https://progress-bar.dev/75/?title=Building) |
-| **Computer Vision** | ![70%](https://progress-bar.dev/70/?title=Learning) |
-| **Machine Learning** | ![60%](https://progress-bar.dev/60/?title=Exploring) |
 
 ---
 
