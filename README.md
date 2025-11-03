@@ -14,7 +14,6 @@
 * 🌱 Currently mastering **Advanced C++** & **Python AI Libraries**
 * 🔭 Building **Intelligent Robotics Systems** with Arduino
 * 🧠 Exploring **Computer Vision**, **Machine Learning**, and **IoT Networks**
-* 💬 Ask me about **OOP, Sensor Integration, and Automation Systems**
 * 📫 Reach me at: **aapppp742@gmail.com**
 * ⚡ Fun fact: I enjoy solving complex problems more than writing new code! 🧩
 
@@ -34,6 +33,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🔧 Skills Proficiency
+
+| Category          | Skills                           | Proficiency |
+|-------------------|----------------------------------|-------------|
+| Programming      | Python, C++                       | Advanced   |
+| AI/ML            | Machine Learning, Computer Vision | Intermediate |
+| Robotics         | Arduino, Sensor Integration       | Advanced   |
+| Tools            | Git, VS Code                      | Advanced     |
+
+*(Proficiency levels based on self-assessment and project experience)*
 
 ## 📊 GitHub Analytics
 
@@ -69,11 +79,28 @@
 
 ## 🌟 Featured Projects
 
-### 🤖 [Smart Robotics System]()
-> *AI-powered autonomous robot with computer vision and sensor fusion*
+<div align="center">
 
-### 🎯 [Object Detection with OpenCV]()
-> *Real-time object recognition system using Python and OpenCV*
+### 🐍 Python Projects  
+[![PyFusion](https://img.shields.io/badge/GitHub-PyFusion-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/PyFusion)  
+Explore **PyFusion** — my hub for Python projects, including **Nexus AI Desktop Assistant**, **Face Management System using OpenCV**, and more innovative automation tools.  
+**Tech:** Python, SpeechRecognition, Tkinter, Pyttsx3, OpenCV, Threading
+
+---
+
+### 💻 C++ Projects  
+[![CppFusion](https://img.shields.io/badge/GitHub-CppFusion-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/CppFusion)  
+Check out **CppFusion** — showcasing C++ projects such as **Business Store Management System** and **Employee Management System**, built with structured logic and real-world data handling.  
+**Tech:** C++, File Handling, Structs, Functions, Data Management
+
+---
+
+### 🤖 Arduino Projects  
+[![ArduinoCore](https://img.shields.io/badge/GitHub-ArduinoCore-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/ArduinoCore)  
+Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ultrasonic sensors**, **motor controls**, and **Bluetooth-integrated systems**.  
+**Tech:** Arduino Uno, Sensors, Actuators, Embedded C++
+
+</div>
 
 ---
 
