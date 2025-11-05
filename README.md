@@ -56,7 +56,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy-Glitch&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Azzy-Glitch&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Azzy-Glitch&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=DD2727&fire=DD2727&currStreakLabel=DD2727&sideNums=FFFFFF" alt="GitHub Streak"
+height="170"/>
 
 </div>
 
