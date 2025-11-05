@@ -49,12 +49,14 @@
 
 <div align="center">
 
-<!-- Auto-updated stats -->
-![Azzy-Glitch GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azzy-Glitch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Azzy-Glitch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Azzy-Glitch GitHub Stats" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy-Glitch&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy-Glitch&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azzy-Glitch&theme=radical&hide_border=true)
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Azzy-Glitch&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" height="170"/>
 
 </div>
 
