@@ -45,24 +45,9 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Azzy-Glitch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Azzy-Glitch GitHub Stats" height="170"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzy-Glitch&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
 
 <!-- Profile Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azzy-Glitch&theme=radical" alt="Profile Details" height="220"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Azzy-Glitch&theme=radical&no-frame=true&row=2&column=4)
 
 </div>
 
@@ -97,6 +82,16 @@ Check out **CppFusion** — showcasing C++ projects such as **Business Store Man
 [![ArduinoCore](https://img.shields.io/badge/GitHub-ArduinoCore-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/ArduinoCore)  
 Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ultrasonic sensors**, **motor controls**, and **Bluetooth-integrated systems**.  
 **Tech:** Arduino Uno, Sensors, Actuators, Embedded C++
+
+### 🧠 AI Prediction & Detection Models  
+[![Ai-Prediction-and-detection-models](https://img.shields.io/badge/GitHub-Ai--Prediction--and--detection--models-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/Ai-Prediction-and-detection-models)  
+Explore **AI Prediction & Detection Models** — a collection of machine learning models for predictive analytics and object detection, including **regression**, **classification**, and **CNN-based detection**.  
+**Tech:** Python, TensorFlow, Scikit-learn, OpenCV
+
+### 📊 DataSet Analysis  
+[![DataSet-Analysis](https://img.shields.io/badge/GitHub-DataSet--Analysis-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/DataSet-Analysis)  
+Dive into **DataSet Analysis** — a repository for exploratory data analysis and visualization, featuring **data cleaning**, **statistical summaries**, and **interactive plots**.  
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 </div>
 
