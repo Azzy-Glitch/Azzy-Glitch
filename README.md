@@ -88,10 +88,6 @@ Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ult
 Explore **AI Prediction & Detection Models** — a collection of machine learning models for predictive analytics and object detection, including **regression**, **classification**, and **CNN-based detection**.  
 **Tech:** Python, TensorFlow, Scikit-learn, OpenCV
 
-### 📊 DataSet Analysis  
-[![DataSet-Analysis](https://img.shields.io/badge/GitHub-DataSet--Analysis-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/DataSet-Analysis)  
-Dive into **DataSet Analysis** — a repository for exploratory data analysis and visualization, featuring **data cleaning**, **statistical summaries**, and **interactive plots**.  
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 </div>
 
