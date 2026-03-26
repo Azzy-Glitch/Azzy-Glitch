@@ -84,7 +84,7 @@ Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ult
 **Tech:** Arduino Uno, Sensors, Actuators, Embedded C++
 
 ### 🧠 AI Prediction & Detection Models  
-[![Ai-Prediction-and-detection-models](https://img.shields.io/badge/GitHub-Ai--Prediction--and--detection--models-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/Ai_Prediction_and_Detection_Models)  
+[![Ai-Prediction-and-detection-models](https://img.shields.io/badge/GitHub-Ai--Prediction--and--detection--models-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/AiFusionLab)  
 Explore **AI Prediction & Detection Models** — a collection of machine learning models for predictive analytics and object detection, including **regression**, **classification**, and **CNN-based detection**.  
 **Tech:** Python, TensorFlow, Scikit-learn, OpenCV
 
