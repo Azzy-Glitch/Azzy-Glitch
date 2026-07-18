@@ -1,107 +1,143 @@
-<!-- Typing Animation Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=600&lines=Hi!+I'm+Abdul+Aziz;Python+\+Cpp+%7C+AI+%26+Robotics+Enthusiast;Developer+%7C+Innovator+%7C+Tech+Learner;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+# Hi, I'm Abdul Aziz Qureshi 👋
+
+### AI Engineer & Software Developer
+
+**Building practical AI systems — from desktop assistants to computer vision pipelines**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Azzy--Glitch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azzy-Glitch)
+[![AiFusionLab](https://img.shields.io/badge/Project_Lab-AiFusionLab-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azzy-Glitch/AiFusionLab)
 
 </div>
 
----
-
-## 👋 About Me
-
-🎓 **Python / C++ Developer** | 🤖 **AI & Robotics Innovator** | 💡 **Tech Enthusiast**
-
-* 🌱 Currently mastering **Advanced C++** & **Python AI Libraries**
-* 🔭 Building **Intelligent Robotics Systems** with Arduino
-* 🧠 Exploring **Computer Vision**, **Machine Learning**, and **IoT Networks**
-* 📫 Reach me at: **aapppp742@gmail.com**
-* ⚡ Fun fact: I enjoy solving complex problems more than writing new code! 🧩
+<br/>
 
 ---
 
-### **Programming Languages / 🛠️ Tech Stack**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## About Me
 
+I develop AI systems that leave the notebook and become real software — desktop assistants, computer vision pipelines, and lightweight AI utilities designed to be used, not just demoed.
 
-### **Development Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+My work sits at the intersection of **systems programming** and **applied AI**. I care equally about model behavior and the architecture that ships it: clean interfaces, maintainable code, and pipelines built to be extended rather than rewritten.
+
+Every project lives inside a structured portfolio (`AiFusionLab`, `PyFusion`, `CppFusion`) — scoped, documented, and versioned like production software.
+
+Currently deepening backend engineering (**C# / .NET 10**) to build the API layer behind the AI systems I design — moving from *using AI tools* to *engineering the systems that power them*.
+
+<br/>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Frameworks & Libraries**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🔧 Skills Proficiency
-
-| Category          | Skills                           | Proficiency |
-|-------------------|----------------------------------|-------------|
-| Programming      | Python, C++                       | Advanced   |
-| AI/ML            | Machine Learning, Computer Vision | Intermediate |
-| Robotics         | Arduino, Sensor Integration       | Advanced   |
-| Tools            | Git, VS Code                      | Advanced     |
-
-*(Proficiency levels based on self-assessment and project experience)*
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azzy-Glitch&theme=radical" alt="Profile Details" height="220"/>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
+<br/>
+
+**Core Concepts**
+
+`Computer Vision` · `Applied Machine Learning` · `NLP Pipelines` · `Desktop App Architecture` · `REST API Design` · `Embedded Systems & Robotics`
+
+<br/>
+
 ---
 
-## 📈 Contribution Activity
+## Featured Projects
 
-<!-- Auto-updated activity graph -->
-[![Azzy-Glitch GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azzy-Glitch&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Nexus AI Desktop Assistant
+A desktop AI assistant integrating NLP with system-level automation — a practical alternative to cloud-only assistants.
+
+**Stack:** `Python` `NLP` `Desktop Automation`
+
+**Highlight:** Executes real OS-level tasks rather than acting as a standalone chatbot.
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Face Attendance System
+A computer vision–based attendance system using real-time face detection and recognition.
+
+**Stack:** `Python` `OpenCV` `Face Recognition`
+
+**Highlight:** Automates a real operational workflow with a lightweight, deployable CV pipeline.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 AI Tools Suite — PyFusion / AiFusionLab
+A structured, growing collection of modular AI utilities and experiments.
+
+**Stack:** `Python` `Gradio` `ML Libraries`
+
+**Highlight:** Portfolio-first design — every tool is self-contained, documented, and built for reuse.
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 Explore the Full Lab
+All active and upcoming projects are organized under a single, versioned workspace.
+
+**Repo:** [AiFusionLab →](https://github.com/Azzy-Glitch/AiFusionLab)
+
+**Highlight:** Structured like production software, not scattered scripts.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+## Current Focus
+
+- 🔧 Completing a structured **C# / .NET 10 backend development track**, working toward a capstone E-Commerce API
+- ⚙️ Strengthening backend fundamentals: async/await, dependency injection, JWT auth, LINQ
+- 👁️ Expanding computer vision projects toward production-grade pipelines
+- 🔗 Bridging AI models with backend systems to ship full-stack AI products — not just standalone models
+
+<br/>
+
+---
+
+## Connect
 
 <div align="center">
 
-### 🐍 Python Projects  
-[![PyFusion](https://img.shields.io/badge/GitHub-PyFusion-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/PyFusion)  
-Explore **PyFusion** — my hub for Python projects, including **Nexus AI Desktop Assistant**, **Face Management System using OpenCV**, and more innovative automation tools.  
-**Tech:** Python, SpeechRecognition, Tkinter, Pyttsx3, OpenCV, Threading
+[![GitHub](https://img.shields.io/badge/GitHub-Azzy--Glitch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azzy-Glitch)
 
----
-
-### 💻 C++ Projects  
-[![CppFusion](https://img.shields.io/badge/GitHub-CppFusion-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/CppFusion)  
-Check out **CppFusion** — showcasing C++ projects such as **Business Store Management System** and **Employee Management System**, built with structured logic and real-world data handling.  
-**Tech:** C++, File Handling, Structs, Functions, Data Management
-
----
-
-### 🤖 Arduino Projects  
-[![ArduinoCore](https://img.shields.io/badge/GitHub-ArduinoCore-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/ArduinoCore)  
-Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ultrasonic sensors**, **motor controls**, and **Bluetooth-integrated systems**.  
-**Tech:** Arduino Uno, Sensors, Actuators, Embedded C++
-
-### 🧠 AI Prediction & Detection Models  
-[![Ai-Prediction-and-detection-models](https://img.shields.io/badge/GitHub-Ai--Prediction--and--detection--models-blue?style=for-the-badge&logo=github)](https://github.com/Azzy-Glitch/AiFusionLab)  
-Explore **AI Prediction & Detection Models** — a collection of machine learning models for predictive analytics and object detection, including **regression**, **classification**, and **CNN-based detection**.  
-**Tech:** Python, TensorFlow, Scikit-learn, OpenCV
-
+*Open to discussing AI engineering, backend development, and collaborative projects.*
 
 </div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azzy-glitch)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_abdul_aziz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapppp742@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azzy-Glitch)
-
-</div>
-
----
