@@ -13,40 +13,41 @@
 
 ---
 
-## About
+<img src="assets/about-section.svg" width="100%" alt="Beyond the interface — profile" />
 
 I’m **Abdul Aziz Qureshi**, an AI engineer and software developer interested in turning ideas into reliable, useful systems.
 
 My work spans AI-powered applications, backend development, automation, computer vision, and embedded projects. I enjoy understanding how systems work beneath the interface — from architecture and data flow to reliability and security.
 
-## Featured work
+---
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>KAIRON · AI Site Reliability Engineering</h3>
-      <p><strong>A Windows-focused, local-first platform for software reliability and incident response.</strong></p>
-      <p>KAIRON brings application telemetry, incident detection, investigation, AI-assisted diagnosis, and approval-controlled remediation into one workflow. The goal is to help developers understand failures and act on them with greater confidence.</p>
-      <p>
-        <a href="https://github.com/Azzy-Glitch/Kairon">Project overview ↗</a>
-        &nbsp;·&nbsp; <sub>Repository is private</sub>
-      </p>
-      <sub>Observability · Incident management · AI-assisted diagnosis · Controlled remediation · Windows</sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/projects-section.svg" width="100%" alt="Things I build — selected projects" />
 
-## Selected projects
+### <img src="https://img.shields.io/badge/FEATURED- KAIRON-241D35?style=flat-square&labelColor=17131F&color=6F55B5" />
 
-| Project | What it explores |
+**KAIRON · AI Site Reliability Engineering**
+
+A Windows-focused, local-first platform for software reliability and incident response.
+
+KAIRON brings application telemetry, incident detection, investigation, AI-assisted diagnosis, and approval-controlled remediation into one workflow. The goal is to help developers understand failures and act on them with greater confidence.
+
+[Project overview ↗](https://github.com/Azzy-Glitch/Kairon) · <sub>Repository is private</sub>
+
+<sub>OBSERVABILITY　/　INCIDENT MANAGEMENT　/　AI-ASSISTED DIAGNOSIS　/　CONTROLLED REMEDIATION</sub>
+
+### Other projects
+
+| Project | Focus |
 |---|---|
-| [Nexus](https://github.com/Azzy-Glitch/PyFusion/tree/main/Nexus) | A Python-based desktop assistant combining voice interaction and automation. |
+| [Nexus](https://github.com/Azzy-Glitch/PyFusion/tree/main/Nexus) | Python desktop assistant combining voice interaction and automation. |
 | [AiFusionLab](https://github.com/Azzy-Glitch/AiFusionLab) | Experiments and implementations across AI and machine learning. |
 | [PyFusion](https://github.com/Azzy-Glitch/PyFusion) | Python applications, utilities, and automation projects. |
 | [CppFusion](https://github.com/Azzy-Glitch/CppFusion) | C++ programming projects and practical development exercises. |
 | [ArduinoCore](https://github.com/Azzy-Glitch/ArduinoCore) | Embedded development and Arduino-based hardware projects. |
 
-## Engineering interests
+---
+
+<img src="assets/engineering-section.svg" width="100%" alt="Engineering toolkit" />
 
 <div align="center">
 
@@ -66,15 +67,15 @@ My work spans AI-powered applications, backend development, automation, computer
 - Computer vision and automation
 - Embedded systems and hardware-software integration
 
-## Current direction
+---
+
+<img src="assets/direction-section.svg" width="100%" alt="Exploring what's next" />
 
 Exploring how AI can move beyond answering questions to help developers **understand complex failures, uncover root causes, and improve software reliability**.
 
----
-
 <div align="center">
 
-**BUILD · EXPLORE · ENGINEER**
+**BUILD　·　EXPLORE　·　ENGINEER**
 
 <sub>Turning ideas into systems that work.</sub>
 
