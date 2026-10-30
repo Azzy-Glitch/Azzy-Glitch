@@ -1,115 +1,166 @@
-<div align="center">
+# ABDUL AZIZ QURESHI
+### AI Engineer · Software Developer · Technology Enthusiast
 
-<img src="assets/profile-hero.svg" alt="Abdul Aziz Qureshi — AI Engineer and Software Developer" width="100%" />
+<p align="center">
+  <strong>BUILDING INTELLIGENT SYSTEMS. ENGINEERING WHAT'S NEXT.</strong>
+</p>
 
-### AI Engineer | Software Developer
+<p align="center">
+  <a href="https://github.com/Azzy-Glitch">
+    <img src="https://img.shields.io/badge/GitHub-Azzy--Glitch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/azzy-glitch/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abdulazizqureshi227@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8B72D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Building practical software systems that combine AI, automation, and reliable engineering.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Azzy--Glitch-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/Azzy-Glitch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azzy-glitch/)
-[![Email](https://img.shields.io/badge/Email-abdulazizqureshi227%40gmail.com-171717?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulazizqureshi227@gmail.com)
-
-</div>
-
----
-
-<img src="assets/about-section.svg" width="100%" alt="About Abdul Aziz Qureshi" />
-
-### About me
-
-I’m Abdul Aziz Qureshi, an AI engineer and software developer focused on building practical systems that connect machine intelligence with real-world engineering problems.
-
-My work spans Python and C++, AI and machine learning, automation, computer vision, backend systems, and embedded development. I enjoy solving technical problems by understanding the system beneath the interface and turning ideas into tools that are useful, reliable, and maintainable.
-
----
-
-<img src="assets/projects-section.svg" width="100%" alt="Selected projects" />
-
-### Featured project
-
-<img src="assets/kairon-capabilities.svg" width="100%" alt="KAIRON capability overview" />
-
-## KAIRON — AI Site Reliability Engineering Platform
-
-KAIRON is a Windows-focused, local-first platform for improving software reliability through observability, incident detection, investigation, and controlled recovery.
-
-It helps teams understand what is failing, correlate application and system signals, investigate the evidence behind an issue, and execute safe, reviewable remediation when needed. The goal is not only to detect failure, but to support faster and more informed operational decisions.
-
-### Core capabilities
-
-- Application and system observability
-- Incident detection and correlation
-- Evidence-based investigation
-- AI-assisted diagnosis
-- Approval-controlled remediation
-- Reliability monitoring and failure prevention
-
-[Project overview ↗](https://github.com/Azzy-Glitch/Kairon)
+<p align="center">
+  <code>PYTHON</code> &nbsp; <code>C++</code> &nbsp; <code>ARTIFICIAL INTELLIGENCE</code> &nbsp; <code>AUTOMATION</code> &nbsp; <code>SOFTWARE ENGINEERING</code>
+</p>
 
 ---
 
-### Other projects
+## 01 / ABOUT ME
 
-<img src="assets/project-showcase.svg" width="100%" alt="Project showcase" />
+I'm **Abdul Aziz Qureshi**, an AI engineer and software developer interested in building intelligent, practical, and reliable software systems.
 
-| Project | Focus |
-|---|---|
-| [Nexus](https://github.com/Azzy-Glitch/PyFusion/tree/main/Nexus) | Python desktop assistant combining voice interaction and automation. |
-| [AiFusionLab](https://github.com/Azzy-Glitch/AiFusionLab) | Machine learning and AI experiments focused on practical model development and prediction workflows. |
-| [PyFusion](https://github.com/Azzy-Glitch/PyFusion) | Python projects, utilities, and practical problem-solving across automation and software work. |
-| [CppFusion](https://github.com/Azzy-Glitch/CppFusion) | C++ projects focused on algorithms, data structures, and core engineering fundamentals. |
-| [ArduinoCore](https://github.com/Azzy-Glitch/ArduinoCore) | Embedded systems and Arduino-based hardware experiments with sensors, control, and automation. |
+My work explores the intersection of software engineering, artificial intelligence, automation, and embedded technologies.
 
----
+I enjoy going beyond surface-level implementation — understanding how systems operate, identifying engineering challenges, and transforming ideas into functional solutions.
 
-<img src="assets/engineering-section.svg" width="100%" alt="Engineering toolkit" />
+**What drives my work:**
 
-### Engineering toolkit
-
-#### Programming
-
-![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=B8A2FF)
-![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=B8A2FF)
-![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=cplusplus&logoColor=B8A2FF)
-
-#### AI & intelligent systems
-
-![ML](https://img.shields.io/badge/AI%2FML-222222?style=for-the-badge&logo=python&logoColor=B8A2FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-222222?style=for-the-badge&logo=opencv&logoColor=B8A2FF)
-![Automation](https://img.shields.io/badge/Automation-222222?style=for-the-badge&logo=githubactions&logoColor=B8A2FF)
-
-#### Software engineering
-
-![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=B8A2FF)
-![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=B8A2FF)
-![.NET](https://img.shields.io/badge/.NET-222222?style=for-the-badge&logo=dotnet&logoColor=B8A2FF)
-
-#### Embedded & hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-222222?style=for-the-badge&logo=arduino&logoColor=B8A2FF)
-![Embedded](https://img.shields.io/badge/Embedded-222222?style=for-the-badge&logo=raspberrypi&logoColor=B8A2FF)
+- Developing practical software with Python and C++.
+- Exploring AI, machine learning, and computer vision.
+- Building automation tools and intelligent applications.
+- Understanding system architecture and software reliability.
+- Experimenting with embedded systems and hardware integration.
 
 ---
 
-<img src="assets/direction-section.svg" width="100%" alt="Engineering direction" />
+## 02 / FEATURED ENGINEERING PROJECT
 
-Exploring intelligent software systems, AI-assisted engineering, automation, software reliability, and practical problem-solving that connects software with real operational needs.
+<p align="center">
+  <strong>THE FLAGSHIP PROJECT</strong>
+</p>
 
-<div align="center">
+# KAIRON
+### AI Site Reliability Engineering Platform
 
-<strong>BUILD · EXPLORE · ENGINEER</strong>
+> Understand failures. Investigate evidence. Prevent what comes next.
 
-<sub>Turning ideas into systems that work.</sub>
+KAIRON is a **Windows-focused, local-first AI Site Reliability Engineering platform** designed to help developers and software teams understand, investigate, and respond to software reliability problems.
 
-</div>
+Rather than treating monitoring and incident response as disconnected activities, KAIRON brings application telemetry, system visibility, incident intelligence, AI-assisted investigation, and controlled remediation into one workflow.
+
+**Core engineering capabilities**
+
+| Capability | Purpose |
+|:---|:---|
+| Observability | Understand application and system behaviour. |
+| Incident Detection | Identify abnormal behaviour and operational failures. |
+| Correlation | Connect related signals to understand broader problems. |
+| Investigation | Use telemetry and evidence to investigate root causes. |
+| AI-Assisted Diagnosis | Support technical investigation with AI-driven analysis. |
+| Controlled Remediation | Execute approved recovery actions with safeguards. |
+
+**The bigger vision**
+
+Move beyond simply reporting that something failed. Help developers understand why it failed, discover hidden weaknesses, and identify potential failures before they affect users.
+
+<p align="center">
+  <strong>OBSERVE → DETECT → CORRELATE → INVESTIGATE → DIAGNOSE → REMEDIATE</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Azzy-Glitch/Kairon">
+    <img src="https://img.shields.io/badge/EXPLORE-KAIRON-8B72D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore KAIRON">
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 03 / OTHER PROJECTS
 
-### Contact
+A selection of projects exploring different areas of software development and engineering.
 
-[GitHub](https://github.com/Azzy-Glitch) · [LinkedIn](https://www.linkedin.com/in/azzy-glitch/) · [Email](mailto:abdulazizqureshi227@gmail.com)
+| Project | Engineering Focus |
+|:---|:---|
+| **[Nexus](https://github.com/Azzy-Glitch/PyFusion/tree/main/Nexus)** | Voice interaction, desktop assistance, and automation. |
+| **[AiFusionLab](https://github.com/Azzy-Glitch/AiFusionLab)** | Artificial intelligence and machine learning experiments. |
+| **[PyFusion](https://github.com/Azzy-Glitch/PyFusion)** | Python applications, utilities, and automation. |
+| **[CppFusion](https://github.com/Azzy-Glitch/CppFusion)** | C++ programming, algorithms, and engineering fundamentals. |
+| **[ArduinoCore](https://github.com/Azzy-Glitch/ArduinoCore)** | Embedded development, hardware experiments, and automation. |
 
-</div>
+---
+
+## 04 / ENGINEERING TOOLKIT
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=9B83E8" alt="Python">
+  <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=9B83E8" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=cplusplus&logoColor=9B83E8" alt="C++">
+</p>
+
+### Artificial Intelligence & Intelligent Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-222222?style=for-the-badge&logo=probot&logoColor=9B83E8" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Machine%20Learning-222222?style=for-the-badge&logo=scikitlearn&logoColor=9B83E8" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/OpenCV-222222?style=for-the-badge&logo=opencv&logoColor=9B83E8" alt="OpenCV">
+</p>
+
+### Software Engineering & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=9B83E8" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=9B83E8" alt="GitHub">
+  <img src="https://img.shields.io/badge/.NET-222222?style=for-the-badge&logo=dotnet&logoColor=9B83E8" alt=".NET">
+</p>
+
+### Embedded Systems & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-222222?style=for-the-badge&logo=arduino&logoColor=9B83E8" alt="Arduino">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-222222?style=for-the-badge&logo=raspberrypi&logoColor=9B83E8" alt="Embedded Systems">
+  <img src="https://img.shields.io/badge/Automation-222222?style=for-the-badge&logo=githubactions&logoColor=9B83E8" alt="Automation">
+</p>
+
+---
+
+## 05 / ENGINEERING DIRECTION
+
+I'm continuously exploring ways to make software more intelligent, dependable, and useful.
+
+My broader engineering interests include:
+
+- **Intelligent Engineering:** Applying AI to real-world technical problems.
+- **Software Reliability:** Understanding system behaviour and preventing failures.
+- **Automation:** Reducing repetitive work through intelligent systems.
+- **AI & Robotics:** Connecting machine intelligence with practical applications.
+- **System Architecture:** Building maintainable solutions with thoughtful engineering decisions.
+
+The objective is simple: build things that solve actual problems, understand how they work, and make them better.
+
+---
+
+<p align="center">
+
+### BUILD · EXPLORE · ENGINEER
+
+**Turning ideas into systems that work.**
+
+<br>
+
+<a href="https://github.com/Azzy-Glitch">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/azzy-glitch/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:abdulazizqureshi227@gmail.com">Email</a>
+
+</p>
