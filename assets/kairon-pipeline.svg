@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 170" width="980" height="170" role="img" aria-labelledby="t d">
+<title id="t">KAIRON investigation pipeline</title>
+<desc id="d">Observe, Detect, Correlate, Investigate, Diagnose, Remediate.</desc>
+<rect width="980" height="170" rx="14" fill="#0D1117"/>
+<rect x="0.5" y="30.5" width="139" height="68" rx="12" fill="#161B22" stroke="#30363D"/>
+<text x="70" y="54" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B72D9">01</text>
+<text x="70" y="82" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Observe</text>
+<text x="70" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">Application telemetry</text>
+<text x="70" y="146" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">&amp; system visibility</text>
+<path d="M144 64H162" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M157 59L163 64L157 69" fill="none" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="168.5" y="30.5" width="139" height="68" rx="12" fill="#161B22" stroke="#30363D"/>
+<text x="238" y="54" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B72D9">02</text>
+<text x="238" y="82" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Detect</text>
+<text x="238" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">Abnormal behaviour</text>
+<text x="238" y="146" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">&amp; operational failures</text>
+<path d="M312 64H330" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M325 59L331 64L325 69" fill="none" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="336.5" y="30.5" width="139" height="68" rx="12" fill="#161B22" stroke="#30363D"/>
+<text x="406" y="54" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B72D9">03</text>
+<text x="406" y="82" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Correlate</text>
+<text x="406" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">Related signals into</text>
+<text x="406" y="146" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">one broader picture</text>
+<path d="M480 64H498" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M493 59L499 64L493 69" fill="none" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="504.5" y="30.5" width="139" height="68" rx="12" fill="#161B22" stroke="#30363D"/>
+<text x="574" y="54" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B72D9">04</text>
+<text x="574" y="82" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Investigate</text>
+<text x="574" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">Telemetry &amp; evidence</text>
+<text x="574" y="146" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">toward root cause</text>
+<path d="M648 64H666" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M661 59L667 64L661 69" fill="none" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="672.5" y="30.5" width="139" height="68" rx="12" fill="#161B22" stroke="#30363D"/>
+<text x="742" y="54" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B72D9">05</text>
+<text x="742" y="82" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Diagnose</text>
+<text x="742" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">AI-assisted</text>
+<text x="742" y="146" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">technical analysis</text>
+<path d="M816 64H834" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M829 59L835 64L829 69" fill="none" stroke="#8B72D9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="840.5" y="30.5" width="139" height="68" rx="12" fill="#1B1530" stroke="#8B72D9"/>
+<text x="910" y="54" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" letter-spacing="2" fill="#8B72D9">06</text>
+<text x="910" y="82" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Remediate</text>
+<text x="910" y="128" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">Approved actions</text>
+<text x="910" y="146" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8B949E">with safeguards</text>
+</svg>
