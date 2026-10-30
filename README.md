@@ -1,5 +1,5 @@
 # ABDUL AZIZ QURESHI
-### AI Engineer · Software Developer · Technology Enthusiast
+### AI Engineer · Software Developer 
 
 <p align="center">
   <strong>BUILDING INTELLIGENT SYSTEMS. ENGINEERING WHAT'S NEXT.</strong>
