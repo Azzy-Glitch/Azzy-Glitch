@@ -150,17 +150,30 @@ The objective is simple: build things that solve actual problems, understand how
 ---
 
 <p align="center">
+  <br>
+  <samp>THE NEXT IDEA STARTS HERE.</samp>
+</p>
 
-### BUILD · EXPLORE · ENGINEER
+<h1 align="center">
+  BUILD. &nbsp; BREAK. &nbsp; UNDERSTAND. &nbsp; REBUILD.
+</h1>
 
-**Turning ideas into systems that work.**
+<p align="center">
+  <em>Think beyond limitations. Engineer beyond expectations.</em>
+  <br><br>
+  <strong>Turning curiosity into code. Ideas into innovation. Challenges into solutions.</strong>
+  <br><br>
+  <a href="https://github.com/Azzy-Glitch">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-8B72D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work">
+  </a>
+  <a href="https://www.linkedin.com/in/azzy-glitch/">
+    <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-222222?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:abdulazizqureshi227@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S%20TALK-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
+  </a>
+</p>
 
-<br>
-
-<a href="https://github.com/Azzy-Glitch">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/azzy-glitch/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:abdulazizqureshi227@gmail.com">Email</a>
-
+<p align="center">
+  <sub>Still building. Still exploring. Never settling.</sub>
 </p>
