@@ -2,9 +2,9 @@
 
 <img src="assets/profile-hero.svg" alt="Abdul Aziz Qureshi — AI Engineer and Software Developer" width="100%" />
 
-<h3>AI Engineer | Software Developer</h3>
+### AI Engineer | Software Developer
 
-<p><strong>Building intelligent software systems that make complex technology easier to understand, operate, and improve.</strong></p>
+Building practical software systems that combine AI, automation, and reliable engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Azzy--Glitch-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/Azzy-Glitch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-171717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azzy-glitch/)
@@ -18,9 +18,9 @@
 
 ### About me
 
-I’m Abdul Aziz Qureshi, an AI engineer and software developer building practical systems that combine software engineering, machine intelligence, and real-world automation.
+I’m Abdul Aziz Qureshi, an AI engineer and software developer focused on building practical systems that connect machine intelligence with real-world engineering problems.
 
-My work spans Python and C++, AI and machine learning, computer vision, backend and systems thinking, and embedded development. I enjoy turning ideas into usable tools, workflows, and software that helps people understand and solve technical problems more effectively.
+My work spans Python and C++, AI and machine learning, automation, computer vision, backend systems, and embedded development. I enjoy solving technical problems by understanding the system beneath the interface and turning ideas into tools that are useful, reliable, and maintainable.
 
 ---
 
@@ -32,9 +32,9 @@ My work spans Python and C++, AI and machine learning, computer vision, backend 
 
 ## KAIRON — AI Site Reliability Engineering Platform
 
-KAIRON is a Windows-focused, local-first platform designed to improve software reliability through observability, incident detection, investigation, and controlled recovery.
+KAIRON is a Windows-focused, local-first platform for improving software reliability through observability, incident detection, investigation, and controlled recovery.
 
-It helps teams understand what is failing, correlate events across application and system signals, investigate root causes with evidence, and execute safe, reviewable remediation when needed. The goal is not just to alert on failure, but to support faster, more informed operational decisions.
+It helps teams understand what is failing, correlate application and system signals, investigate the evidence behind an issue, and execute safe, reviewable remediation when needed. The goal is not only to detect failure, but to support faster and more informed operational decisions.
 
 ### Core capabilities
 
@@ -56,9 +56,9 @@ It helps teams understand what is failing, correlate events across application a
 | Project | Focus |
 |---|---|
 | [Nexus](https://github.com/Azzy-Glitch/PyFusion/tree/main/Nexus) | Python desktop assistant combining voice interaction and automation. |
-| [AiFusionLab](https://github.com/Azzy-Glitch/AiFusionLab) | Machine learning and AI experiments focused on real-world model and prediction workflows. |
-| [PyFusion](https://github.com/Azzy-Glitch/PyFusion) | Python projects, utilities, and practical problem-solving across software and automation work. |
-| [CppFusion](https://github.com/Azzy-Glitch/CppFusion) | C++ projects focused on algorithms, data structures, and engineering fundamentals. |
+| [AiFusionLab](https://github.com/Azzy-Glitch/AiFusionLab) | Machine learning and AI experiments focused on practical model development and prediction workflows. |
+| [PyFusion](https://github.com/Azzy-Glitch/PyFusion) | Python projects, utilities, and practical problem-solving across automation and software work. |
+| [CppFusion](https://github.com/Azzy-Glitch/CppFusion) | C++ projects focused on algorithms, data structures, and core engineering fundamentals. |
 | [ArduinoCore](https://github.com/Azzy-Glitch/ArduinoCore) | Embedded systems and Arduino-based hardware experiments with sensors, control, and automation. |
 
 ---
@@ -75,8 +75,8 @@ It helps teams understand what is failing, correlate events across application a
 
 #### AI & intelligent systems
 
-![Machine%20Learning](https://img.shields.io/badge/ML-222222?style=for-the-badge&logo=python&logoColor=B8A2FF)
-![Computer%20Vision](https://img.shields.io/badge/OpenCV-222222?style=for-the-badge&logo=opencv&logoColor=B8A2FF)
+![ML](https://img.shields.io/badge/AI%2FML-222222?style=for-the-badge&logo=python&logoColor=B8A2FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-222222?style=for-the-badge&logo=opencv&logoColor=B8A2FF)
 ![Automation](https://img.shields.io/badge/Automation-222222?style=for-the-badge&logo=githubactions&logoColor=B8A2FF)
 
 #### Software engineering
